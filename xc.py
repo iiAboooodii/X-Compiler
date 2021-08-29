@@ -61,12 +61,12 @@ def sprint(n):
 def about():
     os.system("clear")
     slowprint(logo)
-    print(cyan+'[ToolName]  '+purple+' :[X-Compiler] ')
-    print(cyan+'[Version]   '+purple+' :[1.0]')
-    print(cyan+'[Author]    '+purple+' :[Abood] ')
-    print(cyan+'[Github]    '+purple+' :[https://github.com/iiAboooodii] ')
+    print(cyan+'[ToolName] '+purple+' :[X-Compiler] ')
+    print(cyan+'[Version]  '+purple+' :[1.0]')
+    print(cyan+'[Author]   '+purple+' :[Abood] ')
+    print(cyan+'[Github]   '+purple+' :[https://github.com/iiAboooodii] ')
     print(cyan+'[Telegram] '+purple+' :[https://t.me/i8iii0')
-    print(cyan+'[Twitter]     '+purple+' :[https://twitter.com/iiAboooodii]\n')
+    print(cyan+'[Twitter]  '+purple+' :[https://twitter.com/iiAboooodii]\n')
     ret=input(ask+"[1] For Main Menu | [0] For Exit Tool  > "+green)
     if ret=="1":
         main()
