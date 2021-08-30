@@ -47,7 +47,7 @@ logo='''
 '''+cyan  +'''                                  |_|                  
 '''
 
-logo='''
+aabooutt='''
 '''+cyan  +'''           _                 _   
 '''+blue  +'''     /\   | |               | |  
 '''+cyan  +'''    /  \  | |__   ___  _   _| |_ 
@@ -222,7 +222,7 @@ def encryptem():
 
 def main():
     os.system("clear")
-    slowprint(logo)
+    slowprint(aabooutt)
     
     print(green+'[1]'+yellow+' Encrypt'+cyan+' Bash/Shell')
     print(green+'[2]'+yellow+' Decrypt'+cyan+' Bash/Shell')
