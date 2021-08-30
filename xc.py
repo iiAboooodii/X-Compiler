@@ -70,7 +70,7 @@ def sprint(n):
         
 def about():
     os.system("clear")
-    slowprint(logo)
+    slowprint(aabooutt)
     print(cyan+'[ToolName] '+purple+' :[X-Compiler] ')
     print(cyan+'[Version]  '+purple+' :[1.0]')
     print(cyan+'[Author]   '+purple+' :[Abood] ')
@@ -222,12 +222,12 @@ def encryptem():
 
 def main():
     os.system("clear")
-    slowprint(aabooutt)
+    slowprint(logo)
     
     print(green+'[1]'+yellow+' Encrypt'+cyan+' Bash/Shell')
     print(green+'[2]'+yellow+' Decrypt'+cyan+' Bash/Shell')
-    print(green+'[3]'+yellow+' Encrypt'+cyan+' Python into Variable')
-    print(green+'[4]'+yellow+' Encrypt'+cyan+' Python into emoji')
+    print(green+'[3]'+yellow+' Encrypt'+cyan+' Python Into Variable')
+    print(green+'[4]'+yellow+' Encrypt'+cyan+' Python Into Emoji')
     print(green+'[5]'+yellow+' More Tools')
     print(green+'[6]'+yellow+' About')
     print(green+'[0]'+yellow+' Exit\n')
