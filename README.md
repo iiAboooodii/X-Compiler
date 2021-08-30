@@ -34,7 +34,7 @@ apt install python && git clone https://github.com/iiAboooodii/X-Compiler && cd 
 
 #### [-] Main View >
 
-<img src="https://github.com/iiAboooodii/X-Compiler/raw/main/main.jpeg">
+<img src="https://github.com/iiAboooodii/X-Compiler/raw/main/main.jpg">
 
 #### [-] Bash Source Code >
 
