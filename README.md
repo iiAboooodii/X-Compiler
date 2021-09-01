@@ -50,7 +50,7 @@ apt install python && git clone https://github.com/iiAboooodii/X-Compiler && cd 
 
 #### [-] Python Source Code >
 
-<img src="https://github.com/iiAboooodii/X-Compiler/raw/main/screenshots/source-py.jpeg">
+<img src="https://github.com/iiAboooodii/X-Compiler/raw/main/screenshots/source-py.jpg">
 
 #### [-] Python Emoji Encryption >
 
