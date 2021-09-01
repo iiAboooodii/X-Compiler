@@ -2,7 +2,7 @@
 
 ### [+] Created By > <a href="https://github.com/iiAboooodii">Marshal Abood</a> 
 
-### [+] Decription >
+### [+] Description >
 ***X-Compiler Is A Tool To Encrypt [obfuscate] Or Decrypt [bash/shell] Script Or Compile Python Script. Python Compilation Is Available In Variable Or Emoji.***
 
 ### [+] Installation >
